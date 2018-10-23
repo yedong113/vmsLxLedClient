@@ -1,0 +1,300 @@
+{
+	"methods": "putPlayList",
+	"data": {
+		"programInfos": [{
+			"programId": "68daf9a5f54dd595130f6ea2ab5378dc",
+			"programType": 0,
+			"interval":0,
+			"name": "999",
+			"dateList": [{
+				"dateId": 0,
+				"startDate": "2018-10-01T16:00:00.000Z",
+				"endDate": "2018-10-22T16:00:00.000Z"
+			}],
+			"timeList": [{
+				"timeId": "3c6de16a9d67b63f69e115ed11c931ce1",
+				"startTime": "00:00",
+				"endTime": "00:30"
+			},{
+				"timeId": "27ea06ad24e1c15b8c4312ac97bcf8231",
+				"startTime": "09:00",
+				"endTime": "16:00"
+			}],
+			"playList": [{
+				"fileId": "5d914c42afe80f4a6f97630eff25d7e51",
+				"mediaType": 1,
+				"content": "",
+				"url": "program\\5d914c42afe80f4a6f97630eff25d7e5.png",
+				"x": 0,
+				"y": 0,
+				"width": 640,
+				"height": 384,
+				"delay": 30,
+				"inStyle": 0,
+				"outStyle": 0,
+				"speed": 5,
+				"createTime": "2018-10-16T03:11:39.000Z",
+				"createUser": "",
+				"state": true,
+				"desc": ""
+			},
+				{
+					"fileId": "79c45beae250ef95076fbed07f02345c1",
+					"mediaType": 1,
+					"content": "",
+					"url": "program\\79c45beae250ef95076fbed07f02345c.png",
+					"x": 0,
+					"y": 0,
+					"width": 640,
+					"height": 384,
+					"delay": 30,
+					"inStyle": 0,
+					"outStyle": 0,
+					"speed": 5,
+					"createTime": "2018-10-16T03:11:42.000Z",
+					"createUser": "",
+					"state": true,
+					"desc": ""
+				},
+				{
+					"fileId": "cf73d342de6def25a7bbf288717fff911",
+					"mediaType": 1,
+					"content": "",
+					"url": "program\\cf73d342de6def25a7bbf288717fff91.png",
+					"x": 0,
+					"y": 0,
+					"width": 640,
+					"height": 384,
+					"delay": 30,
+					"inStyle": -1,
+					"outStyle": 3,
+					"speed": 15,
+					"createTime": "2018-10-16T03:11:46.000Z",
+					"createUser": "",
+					"state": true,
+					"desc": ""
+				}]
+		},
+			{
+				"programId": "68daf9a5f54dd595130f6ea2ab5378dc",
+				"programType": 0,
+				"interval":0,
+				"name": "999",
+				"dateList": [{
+					"dateId": 0,
+					"startDate": "2018-10-06T16:00:00.000Z",
+					"endDate": "2018-10-08T16:00:00.000Z"
+				}],
+				"timeList": [{
+					"timeId": "3c6de16a9d67b63f69e115ed11c931ce1",
+					"startTime": "00:00",
+					"endTime": "07:30"
+				},{
+					"timeId": "27ea06ad24e1c15b8c4312ac97bcf8231",
+					"startTime": "09:00",
+					"endTime": "16:00"
+				},{
+					"timeId": "27ea06ad24e1c15b8c4312ac97bcf8232",
+					"startTime": "19:00",
+					"endTime": "23:59"
+				}],
+				"playList": [{
+					"fileId": "5d914c42afe80f4a6f97630eff25d7e52",
+					"mediaType": 1,
+					"content": "",
+					"url": "program\\5d914c42afe80f4a6f97630eff25d7e5.png",
+					"x": 0,
+					"y": 0,
+					"width": 640,
+					"height": 384,
+					"delay": 30,
+					"inStyle": 0,
+					"outStyle": 0,
+					"speed": 5,
+					"createTime": "2018-10-16T03:11:39.000Z",
+					"createUser": "",
+					"state": true,
+					"desc": ""
+				},
+					{
+						"fileId": "79c45beae250ef95076fbed07f02345c2",
+						"mediaType": 1,
+						"content": "",
+						"url": "program\\79c45beae250ef95076fbed07f02345c.png",
+						"x": 0,
+						"y": 0,
+						"width": 640,
+						"height": 384,
+						"delay": 30,
+						"inStyle": 0,
+						"outStyle": 0,
+						"speed": 5,
+						"createTime": "2018-10-16T03:11:42.000Z",
+						"createUser": "",
+						"state": true,
+						"desc": ""
+					},
+					{
+						"fileId": "cf73d342de6def25a7bbf288717fff912",
+						"mediaType": 1,
+						"content": "",
+						"url": "program\\cf73d342de6def25a7bbf288717fff91.png",
+						"x": 0,
+						"y": 0,
+						"width": 640,
+						"height": 384,
+						"delay": 30,
+						"inStyle": -1,
+						"outStyle": 3,
+						"speed": 15,
+						"createTime": "2018-10-16T03:11:46.000Z",
+						"createUser": "",
+						"state": true,
+						"desc": ""
+					}]
+			},
+			{
+				"programId": "68daf9a5f54dd595130f6ea2ab5378db",
+				"programType": 1,
+				"interval":15,
+				"lastTime":"2018-10-01 16:01:00",
+				"name": "999",
+				"dateList": [{
+					"dateId": 0,
+					"startDate": "2018-10-01T16:00:00.000Z",
+					"endDate": "2018-10-07T16:00:00.000Z"
+				}],
+				"timeList": [{
+					"timeId": "27ea06ad24e1c15b8c4312ac97bcf8232",
+					"startTime": "16:00",
+					"endTime": "19:00"
+				}],
+				"playList": [{
+					"fileId": "5d914c42afe80f4a6f97630eff25d7e52",
+					"mediaType": 1,
+					"content": "",
+					"url": "program\\5d914c42afe80f4a6f97630eff25d7e5.png",
+					"x": 0,
+					"y": 0,
+					"width": 640,
+					"height": 384,
+					"delay": 30,
+					"inStyle": 0,
+					"outStyle": 0,
+					"speed": 5,
+					"createTime": "2018-10-16T03:11:39.000Z",
+					"createUser": "",
+					"state": true,
+					"desc": ""
+				},
+					{
+						"fileId": "79c45beae250ef95076fbed07f02345c2",
+						"mediaType": 1,
+						"content": "",
+						"url": "program\\79c45beae250ef95076fbed07f02345c.png",
+						"x": 0,
+						"y": 0,
+						"width": 640,
+						"height": 384,
+						"delay": 30,
+						"inStyle": 0,
+						"outStyle": 0,
+						"speed": 5,
+						"createTime": "2018-10-16T03:11:42.000Z",
+						"createUser": "",
+						"state": true,
+						"desc": ""
+					},
+					{
+						"fileId": "cf73d342de6def25a7bbf288717fff912",
+						"mediaType": 1,
+						"content": "",
+						"url": "program\\cf73d342de6def25a7bbf288717fff91.png",
+						"x": 0,
+						"y": 0,
+						"width": 640,
+						"height": 384,
+						"delay": 30,
+						"inStyle": -1,
+						"outStyle": 3,
+						"speed": 15,
+						"createTime": "2018-10-16T03:11:46.000Z",
+						"createUser": "",
+						"state": true,
+						"desc": ""
+					}]
+			},
+			{
+				"programId": "68daf9a5f54dd595130f6ea2ab5378dd",
+				"programType": 1,
+				"interval":5,
+				"lastTime":"2018-10-08 16:07:00",
+				"name": "999",
+				"dateList": [{
+					"dateId": 0,
+					"startDate": "2018-10-06T16:00:00.000Z",
+					"endDate": "2018-10-09T16:00:00.000Z"
+				}],
+				"timeList": [{
+					"timeId": "27ea06ad24e1c15b8c4312ac97bcf8232",
+					"startTime": "16:00",
+					"endTime": "19:00"
+				}],
+				"playList": [{
+					"fileId": "5d914c42afe80f4a6f97630eff25d7e53",
+					"mediaType": 1,
+					"content": "",
+					"url": "program\\5d914c42afe80f4a6f97630eff25d7e5.png",
+					"x": 0,
+					"y": 0,
+					"width": 640,
+					"height": 384,
+					"delay": 30,
+					"inStyle": 0,
+					"outStyle": 0,
+					"speed": 5,
+					"createTime": "2018-10-16T03:11:39.000Z",
+					"createUser": "",
+					"state": true,
+					"desc": ""
+				},
+					{
+						"fileId": "79c45beae250ef95076fbed07f02345c3",
+						"mediaType": 1,
+						"content": "",
+						"url": "program\\79c45beae250ef95076fbed07f02345c.png",
+						"x": 0,
+						"y": 0,
+						"width": 640,
+						"height": 384,
+						"delay": 30,
+						"inStyle": 0,
+						"outStyle": 0,
+						"speed": 5,
+						"createTime": "2018-10-16T03:11:42.000Z",
+						"createUser": "",
+						"state": true,
+						"desc": ""
+					},
+					{
+						"fileId": "cf73d342de6def25a7bbf288717fff913",
+						"mediaType": 1,
+						"content": "",
+						"url": "program\\cf73d342de6def25a7bbf288717fff91.png",
+						"x": 0,
+						"y": 0,
+						"width": 640,
+						"height": 384,
+						"delay": 30,
+						"inStyle": -1,
+						"outStyle": 3,
+						"speed": 15,
+						"createTime": "2018-10-16T03:11:46.000Z",
+						"createUser": "",
+						"state": true,
+						"desc": ""
+					}]
+			}],
+		"deviceId": "km1104"
+	}
+}
